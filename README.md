@@ -9,3 +9,7 @@ The topic is a pub-quiz with european questions.
 For creating plattform independeble slide, the tool [decker](https://github.com/decker-edu/decker) is used.
 
 Just install decker and run ```decker --server``` inside the root folder here.
+
+## Handout
+
+All answers and question can be found here: [Link](handout.md)
